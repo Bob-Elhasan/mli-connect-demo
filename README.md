@@ -7,4 +7,4 @@ A clickable concept demo of MLI Connect, a mobile app idea for Misr Life Insuran
 - All customer data is fictional. Branch details and company information come from MLI's public website.
 - This is not an MLI service and sells nothing.
 
-This repo holds only the built site (HTML, scripts, fonts). The source lives in a separate private repo.
+This repo holds only the built site (HTML, scripts, fonts), served by GitHub Pages from `main`. The source lives in a separate private repo.
